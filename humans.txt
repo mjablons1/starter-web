@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Michal Jablonski michal@michal.mi @mimi
 
 # THANKS
 
