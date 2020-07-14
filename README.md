@@ -1,6 +1,6 @@
-# Starter Web Repo
+# Starter Web Project
 
-This repository is for showing how Git and GitHub work. Addin a line for rebasing exmaple. More changes from myfeature branch too.
+This repository is for showing how Git and GitHub work. Addin a line for rebasing exmaple. More changes from myfeature branch too. Adding emergency fix after our stash.
 
 ## Purpose
 
